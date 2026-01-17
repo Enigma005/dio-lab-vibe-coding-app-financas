@@ -1,6 +1,8 @@
 # 💸 App de Finanças Pessoais com Vibe Coding
 
-PRD refinado no Copilot Web: 
+Este projeto foi desenvolvido como um Desafio de Projeto da DIO de Vibe Coding utilizando o Lovable e o Copilot Web. A proposta é criar aplicativo de organização financeira pessoal baseado em interações em linguagem natural.
+
+## PRD Refinado no Copilot Web
 
 ````markdown
 PRD – Aplicativo de Organização de Finanças Pessoais Conversacional
@@ -43,10 +45,11 @@ A proposta é simplificar o controle financeiro, eliminando formulários complex
     - Testes com grupo piloto de usuários iniciantes e diversos perfis.
     - Coleta de feedback sobre clareza das conversas, acessibilidade e utilidade das recomendações.
     - Ajustes rápidos no fluxo de chat, categorias de gastos e elementos visuais.
-
 ````
 
-Interação com o Lovable
+---
+
+## Interação com o Lovable
 
 > Crie um App de Finanças Pessoais com base no seguinte PRD (Product Requirements Document):
 
@@ -54,14 +57,17 @@ Interação com o Lovable
 
 > Sim (Quer que eu adicione uma tela de relatórios com gráficos e extrato detalhado das transações?) {PRD}
 
-Resultado final do Lovable: https://ask-money-pal.lovable.app
+**Resultado final do Lovable:**  
+[ask-money-pal.lovable.app](https://ask-money-pal.lovable.app)
 
 <img width="1877" height="952" alt="image" src="https://github.com/user-attachments/assets/e64e94c9-a6ec-4947-9b91-5ec069d1302a" />
+
+---
 
 ## Funcionalidades do Aplicativo
 
 ### 1. Registro de Gastos via Chat
-Permite ao usuário registrar seus gastos usando linguagem natural, como em uma conversa.
+Permite ao usuário registrar seus gastos usando linguagem natural, como em uma conversa.  
 Exemplo: “Gastei R$50 no supermercado”.
 
 ### 2. Classificação Automática de Transações
@@ -90,14 +96,17 @@ Interface acessível e inclusiva, com:
 - Contraste adequado
 - Compatibilidade com diferentes perfis de usuários
 
+---
 
 ## Reflexão
 
-### O que funcionou bem?  
-O refinamento do PRD previamente feito no Copilot ajudou muito, pois os créditos do lovable acabaram em apenas 3 interações.
+### O que funcionou bem
+O refinamento do PRD previamente feito no Copilot ajudou muito, pois os créditos do Lovable acabaram em apenas 3 interações.
 
-### O que não funcionou como o esperado?  
+### O que não funcionou como o esperado
 Esperava poder interagir mais vezes gratuitamente com o Lovable, mas as interações feitas já foram de grande valia para aprender mais sobre Vibe Coding.
 
-### O que aprendeu sobre conversar com IAs?
-Aprendi que é basicamente igual a conversar com uma pessoa, quanto mais detalhes e clareza vc dá, melhor é a interação.
+### O que aprendeu sobre conversar com IAs
+Aprendi que é basicamente igual a conversar com uma pessoa: quanto mais detalhes e clareza você dá, melhor é a interação.
+```
+
